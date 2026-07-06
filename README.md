@@ -68,9 +68,3 @@ Key insights include:
 
 These segments can be used to improve marketing strategies and customer engagement.
 
----
-
-## Author
-
-Aya Kamal
-AI & Machine Learning Student
